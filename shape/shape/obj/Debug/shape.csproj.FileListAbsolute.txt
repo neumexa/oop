@@ -1,0 +1,8 @@
+C:\Users\Nikita\source\repos\shape\shape\bin\Debug\shape.exe.config
+C:\Users\Nikita\source\repos\shape\shape\bin\Debug\shape.exe
+C:\Users\Nikita\source\repos\shape\shape\bin\Debug\shape.pdb
+C:\Users\Nikita\source\repos\shape\shape\obj\Debug\shape.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\shape\shape\obj\Debug\shape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\shape\shape\obj\Debug\shape.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\shape\shape\obj\Debug\shape.exe
+C:\Users\Nikita\source\repos\shape\shape\obj\Debug\shape.pdb

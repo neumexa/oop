@@ -1,0 +1,8 @@
+C:\Users\Nikita\source\repos\progression\progression\bin\Debug\progression.exe.config
+C:\Users\Nikita\source\repos\progression\progression\bin\Debug\progression.exe
+C:\Users\Nikita\source\repos\progression\progression\bin\Debug\progression.pdb
+C:\Users\Nikita\source\repos\progression\progression\obj\Debug\progression.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\progression\progression\obj\Debug\progression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\progression\progression\obj\Debug\progression.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\progression\progression\obj\Debug\progression.exe
+C:\Users\Nikita\source\repos\progression\progression\obj\Debug\progression.pdb

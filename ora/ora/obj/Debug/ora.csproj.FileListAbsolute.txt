@@ -1,0 +1,8 @@
+C:\Users\Nikita\source\repos\ora\ora\bin\Debug\ora.exe.config
+C:\Users\Nikita\source\repos\ora\ora\bin\Debug\ora.exe
+C:\Users\Nikita\source\repos\ora\ora\bin\Debug\ora.pdb
+C:\Users\Nikita\source\repos\ora\ora\obj\Debug\ora.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\ora\ora\obj\Debug\ora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\ora\ora\obj\Debug\ora.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ora\ora\obj\Debug\ora.exe
+C:\Users\Nikita\source\repos\ora\ora\obj\Debug\ora.pdb
