@@ -1,0 +1,16 @@
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\nekra\source\repos\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Nikita\Desktop\Задание 1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
